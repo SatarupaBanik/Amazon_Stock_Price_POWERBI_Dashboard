@@ -59,8 +59,8 @@ Insight into Amazon’s stock growth:
 ---
 
 ##  Dataset Used
-- **File**: `AMZN_1997-05-15_2025-02-21.csv`  
-- **Source**: Historical Amazon stock prices  
+- Amazon_Stock_Price_2025: "/Users/satarupabanik/Documents/Elevate_Labs_Intern/DAY_4_Financial_PowerBI/AMZN_1997-05-15_2025-02-21.csv"
+- **Source**:Kaggle 
 - **Fields**: Date, Open, Close, High, Low, Volume
 
 ---
